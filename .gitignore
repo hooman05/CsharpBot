@@ -6,4 +6,4 @@ artifacts/
 .vscode/
 .dotnet/
 *.binlog
-config.json
+*config.json
